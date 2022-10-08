@@ -1,0 +1,4 @@
+# allowances for AP human biology online materials
+sdk.split.io
+events.split.io
+cdn.split.io
